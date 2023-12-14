@@ -1,4 +1,4 @@
-FROM alphine
+FROM alpine
 
 LABEL Maintener="Michael Danielo"
 
