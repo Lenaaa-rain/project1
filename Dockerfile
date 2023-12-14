@@ -1,4 +1,4 @@
-from alphine
+FROM alphine
 
 LABEL Maintener="Michael Danielo"
 
